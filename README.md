@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sy, an <a href="https://www.linkedin.com/in/sylvester-rolack-ii-a6632979/">IT Professional</a></h1>
+<h1>Hi, I'm Sylvester, an <a href="https://www.linkedin.com/in/sylvester-rolack-ii-a6632979/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
