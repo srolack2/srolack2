@@ -1,6 +1,7 @@
 <h1>Hi, I'm Sylvester, an <a href="https://www.linkedin.com/in/sylvester-rolack-ii-a6632979/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+<p> Note: Projects are completed. Currently uploading/linking pictures and adding description. Have a great day! </p>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/srolack2/osticket-prereqs)
