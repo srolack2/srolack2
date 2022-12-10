@@ -1,7 +1,6 @@
 <h1>Hi, I'm Sylvester, an <a href="https://www.linkedin.com/in/sylvester-rolack-ii-a6632979/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-<h3> <b> Note: Projects are completed. Currently uploading/linking pictures and adding descriptions. Have a great day! </b></p> </h3>
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/srolack2/azure-network-protocols)
